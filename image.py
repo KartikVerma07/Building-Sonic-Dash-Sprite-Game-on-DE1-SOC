@@ -40,5 +40,5 @@ def write_hex_values(image_path):
 
 # Example usage:
 
-write_hex_values("pixels.tif")
+write_hex_values("your_picture.png")
 
